@@ -1,5 +1,12 @@
 # frontend
 
+Kelompok 10 Aplikasi Resep Makanan
+- Eko Prasetyo Julianto - 42230007
+- Ezekiel Griffin Dave - 42230011
+- Wahyu Benartdo Sembiring - 42230050
+- I Gde Dhipa Pradnyana - 42230023
+
+
 A new Flutter project.
 
 ## Getting Started
