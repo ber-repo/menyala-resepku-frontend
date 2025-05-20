@@ -7,9 +7,9 @@ Kelompok 10 Aplikasi Resep Makanan
 - I Gde Dhipa Pradnyana - 42230023
 
 Kontribusi
-- Benartdo:
+
 - Dave: Mengerjakan bagian koding untuk class bottom navigation bar, all recipes dart, category screen dart, hone screen dart, dan add recipes dart
-- Prasetyo
+- Prasetyo : Mengerjakan data.dart dan mengerjakan styling supaya terlihat singkron 
 - Dhipa:
 
 A new Flutter project.
