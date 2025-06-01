@@ -1,4 +1,4 @@
-List<String> categories = [ // untuk jenis kategori nambah manual disini
+List<String> categories = [
   'Breakfast',
   'Lunch',
   'Drinks',
@@ -8,11 +8,4 @@ List<String> categories = [ // untuk jenis kategori nambah manual disini
   'Soups',
   'Western',
   'Japanese',
-  
 ];
-//add category 
-void addCategory(String newCategory) { 
-  if (!categories.contains(newCategory)) {
-    categories.add(newCategory);
-  }
-}

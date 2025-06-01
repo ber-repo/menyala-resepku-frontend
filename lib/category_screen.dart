@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'data.dart'; // import category umum yang ada dari awal 
+import 'data.dart'; // list kategori
 
 class CategoryScreen extends StatefulWidget {
   const CategoryScreen({super.key});
@@ -12,7 +12,6 @@ class _CategoryScreenState extends State<CategoryScreen> {
   void _showAddCategoryDialog() {
     final TextEditingController _newCategoryController = TextEditingController();
 
-//fungsi add category
     showDialog(
       context: context,
       builder: (ctx) => AlertDialog(
@@ -44,7 +43,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
       ),
     );
   }
-// body
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
