@@ -8,7 +8,7 @@ Kelompok 10 Aplikasi Resep Makanan
 
 Kontribusi
 
-- Dave: Mengerjakan bagian koding untuk class bottom navigation bar, all recipes dart, category screen dart, hone screen dart, dan add recipes dart
+- Dave: Mengerjakan bagian koding untuk class bottom navigation bar, all recipes dart, category screen dart, home screen dart, dan add recipes dart
 - Prasetyo : Mengerjakan data.dart dan mengerjakan styling supaya terlihat singkron 
 - Dhipa:
 
